@@ -5,7 +5,7 @@ public class Main {
         System.out.println("STUDENT PROFILE");
         System.out.println("Name: Alex");
         System.out.println("Course: Java");
-        system.out.println("Level: Beginner");
+        System.out.println("Level: Beginner");
         System.out.println("--------------------");
     }
 }
